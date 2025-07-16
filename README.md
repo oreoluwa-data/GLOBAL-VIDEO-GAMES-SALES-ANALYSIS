@@ -66,7 +66,7 @@ This project explores the top video games globally using the [vgsales dataset](h
 ## 📁 Deliverables
 
 - Power BI `.pbix` file (dashboard)
-- PowerPoint presentation (8-slide summary)
+- PowerPoint presentation (11-slide summary)
 - Cleaned dataset (`vgsales_cleaned.xlsx`)
 - README (this file)
 
